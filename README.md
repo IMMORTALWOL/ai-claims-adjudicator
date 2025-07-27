@@ -150,12 +150,6 @@ Pull requests and feedback are welcome! If you’d like to contribute, fork the 
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## ✉️ Contact
 
 For questions or support, contact: [ritiksheoran7711@gmail.com]

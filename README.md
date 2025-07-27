@@ -82,13 +82,25 @@ python -m venv .venv
 source .venv/bin/activate
 ```
 
+#### 3. Install Requirements
+
 Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-#### 3. Add Policy Documents
+#### `requirements.txt` should include:
+
+```
+streamlit
+pypdf
+sentence-transformers
+faiss-cpu
+numpy
+```
+
+#### 4. Add Policy Documents
 
 Create a folder named `policy_documents` in the root of the project directory and place your insurance policy PDF files inside it:
 
@@ -96,7 +108,7 @@ Create a folder named `policy_documents` in the root of the project directory an
 mkdir policy_documents
 ```
 
-#### 4. Run the Application
+#### 5. Run the Application
 
 Launch the Streamlit app from your terminal:
 
@@ -104,7 +116,7 @@ Launch the Streamlit app from your terminal:
 streamlit run app.py
 ```
 
-#### 5. Using the App
+#### 6. Using the App
 
 - The app will open in your web browser.
 - In the sidebar, enter your **Gemini API Key**.
@@ -146,5 +158,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## ✉️ Contact
 
-Built by [Your Name]  
-For questions or support, contact: [your-email@example.com]
+Built by Ritik Sheoran  
+For questions or support, contact: [ritiksheoran7711@gmail.com]

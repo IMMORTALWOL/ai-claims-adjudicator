@@ -158,5 +158,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## ✉️ Contact
 
-Built by Ritik Sheoran  
 For questions or support, contact: [ritiksheoran7711@gmail.com]

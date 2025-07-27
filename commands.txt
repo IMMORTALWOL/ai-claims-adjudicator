@@ -1,0 +1,5 @@
+cd "C:\Users\Ritik\Desktop\NLP Semantic"
+
+.venv\Scripts\activate
+
+streamlit run app.py

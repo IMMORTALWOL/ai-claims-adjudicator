@@ -1,0 +1,9 @@
+# Virtual Environment
+.venv/
+
+# Vector Store and other data files
+*.pkl
+policy_documents/
+
+# Python cache
+__pycache__/

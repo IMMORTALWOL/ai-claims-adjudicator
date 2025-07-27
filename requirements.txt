@@ -1,0 +1,7 @@
+streamlit
+arxiv
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+semanticscholar
